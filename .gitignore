@@ -6,6 +6,10 @@ pseyepy/
 src/__pycache__
 src/logs
 
+# ignore all .jpg files in the images directory and its subdirectories
+src/calibrate_camera/images/**/*.jpg
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
