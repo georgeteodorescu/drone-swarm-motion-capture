@@ -1,0 +1,19 @@
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
+	branch = main
+
+[submodule "opencv_contrib"]
+	path = opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+	branch = main
+
+[submodule "pseyepy"]
+	path = pseyepy
+	url = https://github.com/bensondaled/pseyepy
+	branch = master
+
+[submodule "ceres-solver"]
+	path = ceres-solver
+	url = https://github.com/ceres-solver/ceres-solver
+	branch = master
